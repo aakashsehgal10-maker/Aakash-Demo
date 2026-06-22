@@ -1,4 +1,4 @@
 # Aakash-Demo
-My first Git Repository
+It's my first Git Repository
 <br>
 Author- Aakash Sehgal
